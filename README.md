@@ -16,11 +16,11 @@ The structure of the database can be seen below:
 ![pic](CinemaDB_Uml.png)
 
 ## The project was created using these technologies:
-- Java 11
-- MySQL
+- [Java 11](https://www.oracle.com/ru/java/technologies/javase/jdk11-archive-downloads.html)
+- [MySQL](https://dev.mysql.com/downloads/)
+- [Tomcat 9.0.55](https://tomcat.apache.org/download-90.cgi#9.0.55) (to run app locally)
 - Spring
 - Hibernate
-- Tomcat 9.0.54 (to run app locally)
 
 ## To start a project by your own you have to:
 1) Fork and clone this project into your local directory and open the project in an IDE.
